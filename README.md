@@ -1,5 +1,5 @@
 # Java-Based-Dice-game
-#created by @ireuben03@gmail.com
+# created by @ireuben03@gmail.com
 Simple Java program that simulates a dice game between two players
 
 
