@@ -1,9 +1,10 @@
 # Java-Based-Dice-game
-Simple java program that simulates a dice games between two players
+#created by @ireuben03@gmail.com
+Simple Java program that simulates a dice game between two players
 
 
 The game is played over exactly seven rounds i.e., each player will take seven turns (alternating). For each, a player has up to three throws of the dice. The aim is for the player to produce a selected die number (mapped to the score table) with as many of the five dice as possible to gain the highest score for that turn. 
-Each turn challenges the player to make an early choice of category and then go for it. A different category  must be selected for each turn, i.e., all seven categories must be selected over the seven turns. The game is mainly luck, but with some strategy. The game progresses as follows:
+Each turn challenges the player to make an early category choice and then go for it. A different category  must be selected for each turn, i.e., all seven categories must be selected over the seven turns. The game is mainly luck, but with some strategy. The game progresses as follows:
 The first player throws all five dice. After the throw, the player has the following options:
 • Set aside one or more of the dice.
 • Defer the throw i.e., decide not to select any of the dice and keep all five dice to throw again. 
